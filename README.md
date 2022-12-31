@@ -26,7 +26,7 @@ coffee by customers. This represents that minimum waiting time should be 1 secon
 * The definition above will be used for minimum waiting time for ordering and receiving a 
 coffee by customers. This represents that maximum waiting time should be 5 seconds.<br>
 
-### Algorithms
+### Steps of Algorithm
 1- Customer arrives after a random number of seconds passed defined by 
 CUSTOMER_ARRIVAL_TIME_MIN and CUSTOMER_ARRIVAL_TIME_MAX 
 variables.<br>
